@@ -1,0 +1,31 @@
+### Current CodeAcademy Progress
+This list tracks my progress through the codeacademy frontend development course.
+
+- [x] Welcome
+- [x] Web Dev Fundamentals
+- [x] Improved CSS
+- [x] Responsive Design
+- [x] JS Part 1
+- [x] JS Part 2
+- [x] Interactive Websites
+- [x] Accesibility
+- [x] Transitions and Animation
+- [x] Command Line and Git
+- [ ] Portfolio project
+- [ ] JS Part 3
+- [ ] TDD Fundamentals
+- [ ] Async JS / HTTP Requests
+- [ ] Web Apps
+- [ ] React Part 1
+- [ ] React Part 2
+- [ ] Redux
+- [ ] Advanced TDD
+- [ ] Portfolio project - Reddit client
+- [ ] Advanced Web Dev
+- [ ] Linear data structures
+- [ ] Complex data structures
+- [ ] Algorithms
+- [ ] Search & Graph Search Algos
+- [ ] Interviewing
+- [ ] Final Portfolio Project
+- [ ] Next Steps
